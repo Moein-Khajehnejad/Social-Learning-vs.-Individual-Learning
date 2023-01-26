@@ -8,6 +8,6 @@ social and individual learning assumptions respectively.
 
 
 ## Model Structure 
-#### Schematic diagram of different steps in the social learning paradigm from an EGT-based perspective. 
+#### Schematic diagram of different steps in the social learning paradigm . 
 
-
+<img width="1109" alt="Screen Shot 2023-01-27 at 1 23 40 am" src="https://user-images.githubusercontent.com/22978025/214860264-b41031a2-e54a-4cca-b4d1-9a5037d77c83.png">
