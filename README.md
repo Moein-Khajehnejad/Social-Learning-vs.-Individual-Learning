@@ -1,1 +1,1 @@
-# Social-Learning-vs.-Individual-Learning
+# Social Learning vs. Individual Learning
